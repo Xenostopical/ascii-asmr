@@ -1,0 +1,11 @@
+/asmr
+/asmr_test
+/asmr-*.ans
+/asmr-*.txt
+*.plist
+# Local build products
+*.o
+*.dSYM/
+.DS_Store
+core
+core.*
